@@ -56,7 +56,7 @@ git clone https://github.com/yourusername/WeBlog.git
 cd WeBlog
 
 server setup
-cd server
+cd api
 npm install
 
 .env
