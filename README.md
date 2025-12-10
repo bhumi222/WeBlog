@@ -55,7 +55,7 @@ WeBlog is a full-stack **MERN (MongoDB, Express.js, React.js, Node.js)** bloggin
 git clone https://github.com/yourusername/WeBlog.git
 cd WeBlog
 
-server setup
+backend setup
 cd api
 npm install
 
@@ -64,10 +64,10 @@ MONGO_URI=your_mongodb_url
 JWT_SECRET=your_secret_key
 PORT=5000
 
-to start the server
+to start the backend
 npm start
 
-client setup
+frontend setup
 cd ../client
 npm install
 npm start
